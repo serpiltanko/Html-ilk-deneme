@@ -1,2 +1,2 @@
-# Html-ilk-deneme
-Kodluyoruz html ilk deneme
+## **Kodluyoruz İlk Html Denemesi**
+İlk Web sayfası oluşturuldu. 
